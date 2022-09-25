@@ -1,0 +1,10 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "CRUD MySQL Express React NodeJS app. sumber tutorial https://youtu.be/es9_6RFR7wk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahri Gunadi",
+  "license": "ISC"
+}
